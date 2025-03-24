@@ -1,4 +1,4 @@
-## I am a huge fan of documentation, and I am adding this since it will also help me checking back or retrace the assignement :)
+## I am a huge fan of documentation, and I am adding this since it will also help me checking back or retrace the assignment :)
 Used PlantUML for sequence diagram and also the class diagram (not sure what is being used in your framework)
 # API Documentation
 A chat application backend in PHP. Users should be able to create chat

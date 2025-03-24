@@ -8,7 +8,7 @@ messages within a group
 
 ## System Architecture
 
-![UML Class Diagram](docs/images/ClassDiagram.png)
+![UML Class Diagram](docs/images/ClassDiagram.PNG)
 
 ## Use cases
 

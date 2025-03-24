@@ -1,0 +1,8 @@
+/vendor
+/chat.db
+/composer.lock
+/.vscode
+/.idea
+.phpunit.cache/
+coverage/
+

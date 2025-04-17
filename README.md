@@ -1,5 +1,5 @@
 ## 
-# API Documentation
+# API Documentation (Making a chat app using PHP Slim Framework)
 A chat application backend in PHP. Users should be able to create chat
 groups, join these groups and send messages within them. For simplicity, the
 groups are public: any user can join any group. Users should be able to list all the
